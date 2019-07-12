@@ -1,0 +1,11 @@
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\bin\Debug\AulaVetores.exe.config
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\bin\Debug\AulaVetores.exe
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\bin\Debug\AulaVetores.pdb
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\obj\Debug\AulaVetores.VetorInteiro.resources
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\obj\Debug\AulaVetores.Properties.Resources.resources
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\obj\Debug\AulaVetores.csproj.GenerateResource.cache
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\obj\Debug\AulaVetores.csproj.CoreCompileInputs.cache
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\obj\Debug\AulaVetores.exe
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\obj\Debug\AulaVetores.pdb
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\obj\Debug\AulaVetores.Form2.resources
+C:\Users\ecaet\Documents\Programação\C#\AulaVetores\AulaVetores\obj\Debug\AulaVetores.csprojAssemblyReference.cache
